@@ -30,7 +30,11 @@ class Generator(nn.Module):
         super(Generator, self).__init__()
         self.size = size
         self.model = nn.Sequential(
-            nn.Linear(self.size, 256),
+            nn.Linear(self.size, 512),
+            nn.ReLU(),
+            nn.Linear(512, 256),
+            nn.ReLU(),
+            nn.Linear(256, 256),
             nn.ReLU(),
             nn.Linear(256, 128),
             nn.ReLU(),
