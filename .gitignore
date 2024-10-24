@@ -22,3 +22,8 @@ processed_data/mode/processed_validation_mode.csv
 processed_data/multiple/processed_test_multiple.csv
 processed_data/multiple/processed_train_multiple.csv
 processed_data/multiple/processed_validation_multiple.csv
+images/heatmap.png
+images/missing.png
+processed_data/adaptative/processed_test_adaptative.csv
+processed_data/adaptative/processed_train_adaptative.csv
+processed_data/adaptative/processed_validation_adaptative.csv
