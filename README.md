@@ -1,6 +1,6 @@
 # appAutoProject
 
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.actu-environnement.com%2Fae%2Fnews%2Fdata-scientist-profils-divers-passion-necessaire-43173.php4&psig=AOvVaw3Jj6CBwqmI2GGnjqQlyxxW&ust=1729887040285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODMp8npp4kDFQAAAAAdAAAAABAE)
+![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.actu-environnement.com%2Fae%2Fnews%2Fdata-scientist-profils-divers-passion-necessaire-43173.php4&psig=AOvVaw3Jj6CBwqmI2GGnjqQlyxxW&ust=1729887040285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODMp8npp4kDFQAAAAAdAAAAABAE])
 
 This project performs analysis, preprocessing, and predictive modeling on a weld quality dataset. It walks through steps from exploratory data analysis (EDA) to applying machine learning techniques, including semi-supervised learning, to predict weld quality.
 
