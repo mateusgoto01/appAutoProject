@@ -1,6 +1,6 @@
 # appAutoProject
 
-![alt text]([https://www.actu-environnement.com/images/illustrations/news/43173_large.jpg])
+![alt text](https://www.actu-environnement.com/images/illustrations/news/43173_large.jpg)
 
 This project performs analysis, preprocessing, and predictive modeling on a weld quality dataset. It walks through steps from exploratory data analysis (EDA) to applying machine learning techniques, including semi-supervised learning, to predict weld quality.
 
